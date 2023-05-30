@@ -1,12 +1,12 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
+.card-type{
+    border: 2px solid #6a6a6a;
+    background: #2f3147;
+    color: #fff;
 }
-
-.card {
-    color: rgba(76, 78, 100, 0.87);
-    letter-spacing: 0.15px;
-    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 1.5;
+.sales-percentage{
+    color: rgb(9, 201, 9);
+}
+.card-body{
+    display: flex;
+    justify-content: space-between;
 }
